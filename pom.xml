@@ -11,13 +11,12 @@
 	<groupId>com.pruevaParameta</groupId>
 	<artifactId>pruevaParameta</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>pruevaMovie</name>
+	<name>pruevaParameta</name>
 	<description>creacion de Servicion web crud parameta </description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
 	<dependencies>
-            
             
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
